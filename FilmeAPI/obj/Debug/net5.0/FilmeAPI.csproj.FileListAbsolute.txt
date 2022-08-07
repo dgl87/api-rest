@@ -47,3 +47,5 @@ C:\Users\dglan\OneDrive\Área de Trabalho\APIs\API Rest com dotNet 5 - Operaçõ
 C:\Users\dglan\OneDrive\Área de Trabalho\APIs\API Rest com dotNet 5 - Operações essenciais com verbos HTTP - Alura\FilmesAPI\ApiRest\FilmeAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\dglan\OneDrive\Área de Trabalho\APIs\API Rest com dotNet 5 - Operações essenciais com verbos HTTP - Alura\FilmesAPI\ApiRest\FilmeAPI\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\dglan\OneDrive\Área de Trabalho\APIs\API Rest com dotNet 5 - Operações essenciais com verbos HTTP - Alura\FilmesAPI\ApiRest\FilmeAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\dglan\OneDrive\Área de Trabalho\APIs\API Rest com dotNet 5 - Operações essenciais com verbos HTTP - Alura\FilmesAPI\ApiRest\FilmeAPI\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\dglan\OneDrive\Área de Trabalho\APIs\API Rest com dotNet 5 - Operações essenciais com verbos HTTP - Alura\FilmesAPI\ApiRest\FilmeAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
